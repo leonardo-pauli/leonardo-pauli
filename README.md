@@ -24,12 +24,10 @@ Sou apaixonado por tecnologia e desenvolvimento mobile. A cerca de 2 quase 3 ano
 - Dart
 - ChangeNotifier
 - Provider
-- Mobx
 - Hive
 - Sqflite
 - MySql
 - Clean Arch
-- MVVM
 
 🛠 **Outras skills**  
 - Consumo de APIs REST  
